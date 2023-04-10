@@ -5,3 +5,4 @@ This is a brand new beautiful line...
 commit 1
 commit 2
 commit 3
+commit 4
